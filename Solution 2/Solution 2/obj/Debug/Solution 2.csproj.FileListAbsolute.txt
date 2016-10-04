@@ -1,0 +1,6 @@
+C:\Users\Jackie\Desktop\Solution 2\Solution 2\bin\Debug\Solution 2.exe.config
+C:\Users\Jackie\Desktop\Solution 2\Solution 2\obj\Debug\Solution 2.csprojResolveAssemblyReference.cache
+C:\Users\Jackie\Desktop\Solution 2\Solution 2\bin\Debug\Solution 2.exe
+C:\Users\Jackie\Desktop\Solution 2\Solution 2\bin\Debug\Solution 2.pdb
+C:\Users\Jackie\Desktop\Solution 2\Solution 2\obj\Debug\Solution 2.exe
+C:\Users\Jackie\Desktop\Solution 2\Solution 2\obj\Debug\Solution 2.pdb
